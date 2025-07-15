@@ -2,7 +2,7 @@
 <h3 align="center">A passionate AI Engineer from India</h3>
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="coding-gif" height = "400" width = "700" />
+  <img src="https://raw.githubusercontent.com/DeveshYadav13/DeveshYadav13/master/Resources/Developer.gif" alt="coding-gif" height = "400" width = "700" />
 </p>
 
 
@@ -22,8 +22,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abhishekbhardwaj01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishekbhardwaj01/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/mr.abhi_7208?igsh=mwvydth2n3j5mjz5ma==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mr.abhi_7208?igsh=mwvydth2n3j5mjz5ma==" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/mr_abhi7208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/mr_abhi7208" height="30" width="40" /></a>
+<a href="https://instagram.com//mr.abhi_7208?igsh=mwvydth2n3j5mjz5ma==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mr.abhi_7208?igsh=mwvydth2n3j5mjz5ma==" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com//profile/mr_abhi7208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/mr_abhi7208" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
