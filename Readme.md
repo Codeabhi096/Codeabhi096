@@ -27,7 +27,7 @@
 
 - 💬 Ask me about **Python , Machine Learning , Django , API's etc.**
 
-- 📫 How to reach me **Mr.abhi7208@gmail.com**
+- 📫 How to reach me **abhishek.pathak01111@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
