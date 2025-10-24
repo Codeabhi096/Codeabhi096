@@ -17,11 +17,11 @@
 
 - 🔭 I’m currently working on **Data Science projects**
 
-- 🌱 I’m currently learning **Deep Learning and Generative AI**
+- 🌱 I’m currently learning **Generative AI & Agentic AI**
 
-- 👯 I’m looking to collaborate on **Full Stack Projects(Django-Python)**
+- 👯 I’m looking to collaborate on **AI Projects**
 
-- 💬 Ask me about **Python , Machine Learning , Django , API's etc.**
+- 💬 Ask me about **Python , Machine Learning  , API's etc.**
 
 - 📫 How to reach me **abhishek.pathak01111@gmail.com**
 
