@@ -43,7 +43,7 @@ class AbhishekBhardwaj:
         "Database" : ["MySQL", "PostgreSQL", "MongoDB", "Pinecone", "FAISS"],
     }
 
-    current_project = "Medical AI Diagnosis Platform 🏥"
+   
     open_to_work    = True
 
     def connect(self):
@@ -206,7 +206,7 @@ I'm an **AI/ML Engineer** with a strong foundation in machine learning, deep lea
 
 <br/>
 
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+
 
 </div>
 
