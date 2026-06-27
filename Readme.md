@@ -26,29 +26,7 @@
 
 ---
 
-## `>>> WHO AM I?`
 
-```python
-class AbhishekBhardwaj:
-
-    name     = "Abhishek Bhardwaj"
-    role     = "AI Engineer | Python Developer"
-    location = "India 🇮🇳"
-
-    stack = {
-        "AI/ML"    : ["TensorFlow", "PyTorch", "Scikit-learn", "OpenCV", "YOLO"],
-        "GenAI"    : ["LangChain", "LLaMA", "OpenAI", "HuggingFace", "RAG"],
-        "Backend"  : ["FastAPI", "Flask", "Django"],
-        "Cloud"    : ["AWS", "GCP", "Docker"],
-        "Database" : ["MySQL", "PostgreSQL", "MongoDB", "Pinecone", "FAISS"],
-    }
-
-   
-    open_to_work    = True
-
-    def connect(self):
-        print("Let's build something intelligent. 🚀")
-```
 
 I'm an **AI/ML Engineer** with a strong foundation in machine learning, deep learning, and modern generative AI. I specialize in building production-ready intelligent systems — from **RAG pipelines** and **LLM-powered applications** to **computer vision** systems and **FastAPI backends**.
 
