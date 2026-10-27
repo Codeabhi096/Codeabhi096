@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Abhishek%20Kumar&fontSize=52&color=0:0a0a1a,50:0d1b3e,100:0a0a1a&fontColor=00d4ff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Python%20Developer&descAlignY=60&descSize=20&descColor=7dd3fc" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Abhishek%20Kumar&fontSize=52&color=0:0a0a1a,50:0d1b3e,100:0a0a1a&fontColor=00d4ff&fontAlignY=38&desc=Data%20Analyst%20%7C%20AI%20Developer%20%7C%20Tech%20Explorer&descAlignY=60&descSize=20&descColor=7dd3fc" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=00D4FF&center=true&vCenter=true&width=700&height=40&lines=Transforming+raw+data+into+business+insight;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;EDA+%7C+KPI+Dashboards+%7C+Reporting+Automation" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=00D4FF&center=true&vCenter=true&width=800&height=40&lines=Transforming+raw+data+into+business+insight;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;EDA+%7C+KPI+Dashboards+%7C+Reporting+Automation;Building+with+LLMs+%7C+RAG+%7C+AI+Agents" alt="Typing SVG"/>
 
 <br/>
 
@@ -16,7 +16,7 @@
 
 ## About Me
 
-I am a **Data Analyst and Python Developer** who turns raw, messy data into clear, decision-ready insight. I have hands-on experience building KPI dashboards, running exploratory analysis and automating recurring reporting. I am currently **open to new Data Analyst and Python Developer opportunities**.
+I am a **Data Analyst and AI Developer** who turns raw, messy data into clear, decision-ready insight. I have hands-on experience building KPI dashboards, running exploratory analysis and automating recurring reporting. Lately I have been extending this work with **Generative AI and Agentic AI**, using LLMs and agent workflows to make analytics faster and more accessible. I am currently **open to new Data Analyst, Python Developer and applied AI/ML opportunities**.
 
 **What I do**
 
@@ -25,6 +25,15 @@ I am a **Data Analyst and Python Developer** who turns raw, messy data into clea
 - Perform **Exploratory Data Analysis (EDA)** to uncover trends, anomalies and drivers
 - Automate repetitive reporting workflows to save time and reduce manual error
 - Apply **statistical modeling and applied ML** (scikit-learn) to support analytics use cases
+- Build **GenAI and agentic workflows** (LLM apps, RAG, tool-using agents) on top of data
+
+---
+
+## Currently Exploring
+
+- **Generative AI**: LLM APIs, prompt engineering, RAG over documents and tabular data
+- **Agentic AI**: tool-using agents and multi-step workflows with LangChain / LangGraph
+- **AI for analytics**: natural-language-to-SQL, automated insight generation, chat-with-your-data apps
 
 ---
 
@@ -37,6 +46,7 @@ I am a **Data Analyst and Python Developer** who turns raw, messy data into clea
 | **Visualization & BI** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square) |
 | **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white) |
 | **Machine Learning** | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) Hyperparameter Tuning (GridSearchCV) |
+| **GenAI & Agentic AI** | LLM APIs, Prompt Engineering, RAG, LangChain, LangGraph, Vector Stores (FAISS / Chroma), AI Agents, Tool Use |
 | **Apps & Backend** | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
 | **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 | **Data Engineering** | ETL pipelines, data cleaning, data modeling basics |
@@ -51,6 +61,7 @@ I am a **Data Analyst and Python Developer** who turns raw, messy data into clea
 | **Business Intelligence** | KPI definition, dashboard design, stakeholder reporting |
 | **Analytics** | EDA, trend and cohort analysis, statistical testing |
 | **Automation** | Python scripts and scheduled workflows for recurring reports |
+| **AI-Assisted Analytics** | LLM-powered querying, RAG over business data, agent-based workflows |
 | **Communication** | Translating analysis into clear, actionable recommendations |
 
 ---
@@ -58,11 +69,12 @@ I am a **Data Analyst and Python Developer** who turns raw, messy data into clea
 <!--
 ## Featured Projects
 Uncomment and fill in once your project details are ready.
+Tip: add 1-2 GenAI / agentic projects here (e.g. RAG chatbot, chat-with-your-data agent). This is the strongest signal for AI/ML recruiters.
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
 | Project Name | One-line problem statement and the result or insight it produced | Python, SQL, Power BI | [Repo](https://github.com/Codeabhi096/REPO) · [Demo](#) |
-| Project Name | One-line problem statement and the result or insight it produced | Pandas, Tableau | [Repo](https://github.com/Codeabhi096/REPO) |
+| RAG / Agent Project | One-line problem statement and the result | Python, LangChain, FAISS, Streamlit | [Repo](https://github.com/Codeabhi096/REPO) · [Demo](#) |
 -->
 
 ## Certifications
@@ -106,9 +118,9 @@ Uncomment and fill in once your project details are ready.
 
 <div align="center">
 
-**Open to Data Analyst roles, BI and reporting projects, and analytics collaborations.**
+**Open to Data Analyst roles, BI and reporting projects, applied AI/ML work and analytics collaborations.**
 
-Feel free to reach out about SQL, Python, Power BI, Tableau, EDA, KPI dashboards or statistical modeling.
+Feel free to reach out about SQL, Python, Power BI, Tableau, EDA, KPI dashboards, GenAI or agentic AI workflows.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0d1b3e,100:0a0a1a&height=110&section=footer" width="100%"/>
 
